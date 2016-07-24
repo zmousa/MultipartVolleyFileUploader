@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multipart Volley File Uploader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sync_images_finish_result">Synced Images (%1$s) - failed (%2$s)</string>
+    <string name="server_error">Server Error</string>
+</resources>
