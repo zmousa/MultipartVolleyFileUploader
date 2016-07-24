@@ -1,5 +1,5 @@
-Multipart Volley Filer Uploader
-===============================
+Multipart Volley File Uploader
+==============================
 Android application for uploading files using Volley Martipart request.
 
 Dependencies
